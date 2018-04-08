@@ -1,0 +1,54 @@
+2018-04-08T16:46:34.272Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-08T16:46:34.313Z - normal: checking language setting...
+2018-04-08T16:46:34.314Z - normal: Language: en
+2018-04-08T16:46:36.992Z - success: protocol editor-framework registered
+2018-04-08T16:46:36.992Z - success: protocol app registered
+2018-04-08T16:46:36.992Z - success: protocol theme registered
+2018-04-08T16:46:36.992Z - success: protocol packages registered
+2018-04-08T16:46:36.993Z - success: protocol unpack registerred
+2018-04-08T16:46:36.993Z - success: protocol disable-commonjs registerred
+2018-04-08T16:46:38.256Z - normal: connected!
+2018-04-08T16:46:38.295Z - normal: Check project D:\cocosgame\start_project
+2018-04-08T16:46:38.379Z - normal: Initializing Cocos2d
+2018-04-08T16:46:38.804Z - normal: Initializing Asset Database
+2018-04-08T16:46:38.870Z - success: protocol uuid registerred
+2018-04-08T16:46:38.870Z - success: protocol db registerred
+2018-04-08T16:46:38.870Z - success: protocol thumbnail registerred
+2018-04-08T16:46:38.870Z - normal: Loading editor/builtin packages
+2018-04-08T16:46:38.922Z - success: anysdk loaded
+2018-04-08T16:46:39.195Z - success: assets loaded
+2018-04-08T16:46:39.198Z - success: builder loaded
+2018-04-08T16:46:39.203Z - success: cocos-analytics loaded
+2018-04-08T16:46:39.210Z - success: console loaded
+2018-04-08T16:46:39.297Z - success: fb-instant-games loaded
+2018-04-08T16:46:39.302Z - success: hierarchy loaded
+2018-04-08T16:46:39.307Z - success: inspector loaded
+2018-04-08T16:46:39.308Z - success: keystore loaded
+2018-04-08T16:46:39.312Z - success: node-library loaded
+2018-04-08T16:46:39.315Z - success: package-asset loaded
+2018-04-08T16:46:39.318Z - success: preferences loaded
+2018-04-08T16:46:39.320Z - success: project-exporter loaded
+2018-04-08T16:46:39.348Z - success: project-importer loaded
+2018-04-08T16:46:39.351Z - success: project-settings loaded
+2018-04-08T16:46:39.354Z - success: ui-kit loaded
+2018-04-08T16:46:39.356Z - success: ui-grid loaded
+2018-04-08T16:46:39.361Z - success: scene loaded
+2018-04-08T16:46:39.363Z - success: sprite-editor loaded
+2018-04-08T16:46:39.368Z - success: store loaded
+2018-04-08T16:46:39.376Z - success: timeline loaded
+2018-04-08T16:46:39.376Z - normal: Loading builtin packages
+2018-04-08T16:46:39.379Z - success: asset-db-debugger loaded
+2018-04-08T16:46:39.381Z - success: code-editor loaded
+2018-04-08T16:46:39.382Z - success: color-picker loaded
+2018-04-08T16:46:39.391Z - success: package-manager loaded
+2018-04-08T16:46:39.399Z - success: sdkbox loaded
+2018-04-08T16:46:39.403Z - success: tester loaded
+2018-04-08T16:46:39.406Z - success: ui-kit-preview-extra loaded
+2018-04-08T16:46:39.408Z - success: ui-kit-preview loaded
+2018-04-08T16:46:39.410Z - success: ui-tree loaded
+2018-04-08T16:46:41.661Z - normal: Initializing project D:\cocosgame\start_project
+2018-04-08T16:46:41.784Z - normal: Loading packages
+2018-04-08T16:46:41.795Z - normal: Watching packages
+2018-04-08T16:46:41.824Z - normal: Run Application
+2018-04-08T16:46:46.196Z - success: preview server running at http://localhost:7456
+2018-04-08T16:46:54.633Z - normal: 1.9.0
