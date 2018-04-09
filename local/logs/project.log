@@ -1,54 +1,90 @@
-2018-04-08T16:46:34.272Z - normal: Load ~/.CocosCreator/settings.json
-2018-04-08T16:46:34.313Z - normal: checking language setting...
-2018-04-08T16:46:34.314Z - normal: Language: en
-2018-04-08T16:46:36.992Z - success: protocol editor-framework registered
-2018-04-08T16:46:36.992Z - success: protocol app registered
-2018-04-08T16:46:36.992Z - success: protocol theme registered
-2018-04-08T16:46:36.992Z - success: protocol packages registered
-2018-04-08T16:46:36.993Z - success: protocol unpack registerred
-2018-04-08T16:46:36.993Z - success: protocol disable-commonjs registerred
-2018-04-08T16:46:38.256Z - normal: connected!
-2018-04-08T16:46:38.295Z - normal: Check project D:\cocosgame\start_project
-2018-04-08T16:46:38.379Z - normal: Initializing Cocos2d
-2018-04-08T16:46:38.804Z - normal: Initializing Asset Database
-2018-04-08T16:46:38.870Z - success: protocol uuid registerred
-2018-04-08T16:46:38.870Z - success: protocol db registerred
-2018-04-08T16:46:38.870Z - success: protocol thumbnail registerred
-2018-04-08T16:46:38.870Z - normal: Loading editor/builtin packages
-2018-04-08T16:46:38.922Z - success: anysdk loaded
-2018-04-08T16:46:39.195Z - success: assets loaded
-2018-04-08T16:46:39.198Z - success: builder loaded
-2018-04-08T16:46:39.203Z - success: cocos-analytics loaded
-2018-04-08T16:46:39.210Z - success: console loaded
-2018-04-08T16:46:39.297Z - success: fb-instant-games loaded
-2018-04-08T16:46:39.302Z - success: hierarchy loaded
-2018-04-08T16:46:39.307Z - success: inspector loaded
-2018-04-08T16:46:39.308Z - success: keystore loaded
-2018-04-08T16:46:39.312Z - success: node-library loaded
-2018-04-08T16:46:39.315Z - success: package-asset loaded
-2018-04-08T16:46:39.318Z - success: preferences loaded
-2018-04-08T16:46:39.320Z - success: project-exporter loaded
-2018-04-08T16:46:39.348Z - success: project-importer loaded
-2018-04-08T16:46:39.351Z - success: project-settings loaded
-2018-04-08T16:46:39.354Z - success: ui-kit loaded
-2018-04-08T16:46:39.356Z - success: ui-grid loaded
-2018-04-08T16:46:39.361Z - success: scene loaded
-2018-04-08T16:46:39.363Z - success: sprite-editor loaded
-2018-04-08T16:46:39.368Z - success: store loaded
-2018-04-08T16:46:39.376Z - success: timeline loaded
-2018-04-08T16:46:39.376Z - normal: Loading builtin packages
-2018-04-08T16:46:39.379Z - success: asset-db-debugger loaded
-2018-04-08T16:46:39.381Z - success: code-editor loaded
-2018-04-08T16:46:39.382Z - success: color-picker loaded
-2018-04-08T16:46:39.391Z - success: package-manager loaded
-2018-04-08T16:46:39.399Z - success: sdkbox loaded
-2018-04-08T16:46:39.403Z - success: tester loaded
-2018-04-08T16:46:39.406Z - success: ui-kit-preview-extra loaded
-2018-04-08T16:46:39.408Z - success: ui-kit-preview loaded
-2018-04-08T16:46:39.410Z - success: ui-tree loaded
-2018-04-08T16:46:41.661Z - normal: Initializing project D:\cocosgame\start_project
-2018-04-08T16:46:41.784Z - normal: Loading packages
-2018-04-08T16:46:41.795Z - normal: Watching packages
-2018-04-08T16:46:41.824Z - normal: Run Application
-2018-04-08T16:46:46.196Z - success: preview server running at http://localhost:7456
-2018-04-08T16:46:54.633Z - normal: 1.9.0
+2018-04-09T16:04:11.585Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-09T16:04:11.592Z - normal: checking language setting...
+2018-04-09T16:04:11.592Z - normal: Language: en
+2018-04-09T16:04:17.979Z - success: protocol editor-framework registered
+2018-04-09T16:04:17.980Z - success: protocol app registered
+2018-04-09T16:04:17.980Z - success: protocol theme registered
+2018-04-09T16:04:17.980Z - success: protocol packages registered
+2018-04-09T16:04:17.980Z - success: protocol unpack registerred
+2018-04-09T16:04:17.980Z - success: protocol disable-commonjs registerred
+2018-04-09T16:04:19.652Z - normal: connected!
+2018-04-09T16:04:19.656Z - normal: Check project D:\cocosgame\start_project
+2018-04-09T16:04:19.659Z - normal: Initializing Cocos2d
+2018-04-09T16:04:22.157Z - normal: Initializing Asset Database
+2018-04-09T16:04:22.476Z - success: protocol uuid registerred
+2018-04-09T16:04:22.477Z - success: protocol db registerred
+2018-04-09T16:04:22.477Z - success: protocol thumbnail registerred
+2018-04-09T16:04:22.478Z - normal: Loading editor/builtin packages
+2018-04-09T16:04:22.756Z - success: anysdk loaded
+2018-04-09T16:04:23.190Z - success: assets loaded
+2018-04-09T16:04:23.193Z - success: builder loaded
+2018-04-09T16:04:23.200Z - success: cocos-analytics loaded
+2018-04-09T16:04:23.206Z - success: console loaded
+2018-04-09T16:04:23.273Z - success: fb-instant-games loaded
+2018-04-09T16:04:23.311Z - success: hierarchy loaded
+2018-04-09T16:04:23.318Z - success: inspector loaded
+2018-04-09T16:04:23.321Z - success: keystore loaded
+2018-04-09T16:04:23.337Z - success: node-library loaded
+2018-04-09T16:04:23.340Z - success: package-asset loaded
+2018-04-09T16:04:23.343Z - success: preferences loaded
+2018-04-09T16:04:23.343Z - success: project-exporter loaded
+2018-04-09T16:04:23.373Z - success: project-importer loaded
+2018-04-09T16:04:23.373Z - success: project-settings loaded
+2018-04-09T16:04:23.373Z - success: ui-kit loaded
+2018-04-09T16:04:23.453Z - success: ui-grid loaded
+2018-04-09T16:04:23.461Z - success: scene loaded
+2018-04-09T16:04:23.464Z - success: sprite-editor loaded
+2018-04-09T16:04:23.481Z - success: store loaded
+2018-04-09T16:04:23.498Z - success: timeline loaded
+2018-04-09T16:04:23.499Z - normal: Loading builtin packages
+2018-04-09T16:04:23.512Z - success: asset-db-debugger loaded
+2018-04-09T16:04:23.523Z - success: code-editor loaded
+2018-04-09T16:04:23.537Z - success: color-picker loaded
+2018-04-09T16:04:23.546Z - success: package-manager loaded
+2018-04-09T16:04:23.574Z - success: sdkbox loaded
+2018-04-09T16:04:23.585Z - success: tester loaded
+2018-04-09T16:04:23.594Z - success: ui-kit-preview-extra loaded
+2018-04-09T16:04:23.598Z - success: ui-kit-preview loaded
+2018-04-09T16:04:23.602Z - success: ui-tree loaded
+2018-04-09T16:04:28.104Z - normal: Initializing project D:\cocosgame\start_project
+2018-04-09T16:04:28.109Z - normal: Loading packages
+2018-04-09T16:04:28.117Z - normal: Watching packages
+2018-04-09T16:04:28.169Z - normal: Run Application
+2018-04-09T16:04:30.984Z - success: preview server running at http://localhost:7456
+2018-04-09T16:04:42.084Z - normal: 1.9.0
+2018-04-09T17:47:25.537Z - error: TypeError: Path must be a string. Received null
+    at assertPath (path.js:7:11)
+    at Object.join (path.js:468:7)
+    at Object.run (D:\cocosgame\CocosCreator\resources\app.asar\builtin\tester\main.js:1:591)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (D:\cocosgame\CocosCreator\resources\electron.asar\browser\api\web-contents.js:247:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:194:7)
+    at process.on.t (D:\cocosgame\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-04-09T20:32:24.030Z - error: TypeError: Cannot read property 'nativeWin' of null
+    at Object.callback (D:\cocosgame\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:2550)
+    at Timeout.setTimeout [as _onTimeout] (D:\cocosgame\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:356)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+    at process.on.t (D:\cocosgame\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-04-09T20:32:24.044Z - error: TypeError: Cannot read property 'nativeWin' of null
+    at Object.callback (D:\cocosgame\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:2550)
+    at Timeout.setTimeout [as _onTimeout] (D:\cocosgame\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:356)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+    at listOnTimeoutNT (timers.js:276:26)
+    at _combinedTickCallback (internal/process/next_tick.js:77:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+    at process.on.t (D:\cocosgame\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)

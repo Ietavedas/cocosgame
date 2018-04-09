@@ -101,5 +101,18 @@
       ]
     }
   },
-  "panels": {}
+  "panels": {
+    "builder": {
+      "x": 425,
+      "y": 0,
+      "width": 516,
+      "height": 728
+    },
+    "tester": {
+      "x": 766,
+      "y": 3,
+      "width": 516,
+      "height": 728
+    }
+  }
 }

@@ -30,7 +30,11 @@ cc.Class({
         jumpHeight: 0,
         jumpDuration: 0,
         maxMoveSpeed: 0,
-        accel: 0
+        accel: 0,
+        jumpAudio: {
+            default: null,
+            url: cc.AudioClip
+        },
     },
 
     setJumpAction(){
@@ -46,8 +50,15 @@ cc.Class({
         )
             .easing(cc.easeCubicActionIn());
 
+        var callback = cc.callFunc(this.playJumpSound, this);
+
         //repeat Actions
-        return cc.repeatForever(cc.sequence(jumpUp, jumpDown));
+        return cc.repeatForever(cc.sequence(jumpUp, jumpDown , callback));
+    },
+
+    playJumpSound() {
+        // invoke sound engine to play the sound
+        cc.audioEngine.playEffect(this.jumpAudio, false);
     },
 
     setInputControl(){
